@@ -19,7 +19,7 @@ AC_PREREQ(2.62)
 
 AC_INIT([libgrss],
         [grss_version],
-        [https://bugzilla.gnome.org/enter_bug.cgi?product=libgrss],
+        [https://gitlab.gnome.org/GNOME/libgrss/-/issues/],
         [libgrss],
         [https://wiki.gnome.org/Projects/Libgrss])
 
